@@ -3,9 +3,9 @@
 ***
 
 ### How to build:
+0. system: ubuntu-18.04
 
 1. Establish [Android build environment](https://source.android.com/setup/initializing) and install [repo](https://source.android.com/docs/setup/develop#installing-repo).
-1.1 system: ubuntu-18.04
 
 2. Install additional packages:
 
